@@ -38,15 +38,11 @@ A live demo of the project is deployed using **Streamlit**.
 
 ```
 Dynamic_Pricing_Using_RL/
-│── app.py                     # Streamlit application
-│── environment.py             # Pricing environment
-│── q_learning_agent.py        # Q-learning implementation
-│── dqn_agent.py               # Deep Q-learning implementation
-│── utils.py                   # Helper functions
-│── requirements.txt           # Project dependencies
-│── README.md                  # Project documentation
-│── models/                    # Saved models
-│── assets/                    # Images and plots
+│── app.py                     
+│── ecommerve_env.py           
+│── agent_utils.py             
+│── requirements.txt          
+│── README.md                 
 ```
 
 ---
